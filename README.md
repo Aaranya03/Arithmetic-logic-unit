@@ -36,6 +36,10 @@ Deliverables:
 
 Verilog code for the ALU.
 
+#OUTPUT#
+
+<img width="1897" height="991" alt="Image" src="https://github.com/user-attachments/assets/f30b662d-044b-4f67-9aff-f45177a38119" />
+
 Verilog testbench for simulation.
 
 Simulation report including waveform snapshots and result logs.
