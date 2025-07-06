@@ -42,5 +42,10 @@ Simulation report including waveform snapshots and result logs.
 
 #OUTPUT#
 
+#ADDITION ,SUBTRACTION
+
 <img width="1897" height="991" alt="Image" src="https://github.com/user-attachments/assets/f30b662d-044b-4f67-9aff-f45177a38119" />
 
+#AND, OR, NOT
+
+<img width="1899" height="1005" alt="Image" src="https://github.com/user-attachments/assets/6074d9ce-c6d8-4c69-8c88-98ee757e88fb" />
